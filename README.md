@@ -10,6 +10,10 @@
   </a>
 </p>
 
+# Contribute To Rahat New codebase
+To embark on a journey of meaningful contributions and collaborative innovation, we extend a warm invitation to visit our new repository. Your unique insights and valuable contributions will shape the future of Rahat. Join us in making a difference! <br>
+[Rahat-backend GFIs](https://bit.ly/rahat_backend_hacktoberfest) <br>
+[Rahat-community GFIs](https://bit.ly/rahat_community_hacktoberfest)
 
 # Rahat - Blockchain-based Aid Distribution
 
