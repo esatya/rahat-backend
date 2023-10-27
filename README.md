@@ -10,6 +10,8 @@
   </a>
 </p>
 
+> **Latest Updates:** The content of this repository has been moved to the [rahat-backend repository](https://github.com/rahataid/rahat-backend) due to significant breaking changes.
+
 # Contribute To Rahat New codebase
 To embark on a journey of meaningful contributions and collaborative innovation, we extend a warm invitation to visit our new repository. Your unique insights and valuable contributions will shape the future of Rahat. Join us in making a difference! <br>
 [Rahat-backend GFIs](https://bit.ly/rahat_backend_hacktoberfest) <br>
